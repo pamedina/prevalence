@@ -1,5 +1,5 @@
 #!/usr/bin/env/ python3 
-#Paloma MEdina (pamedina)
+#Paloma Medina (pamedina)
 #2018-08-29
 #group: none 
 
