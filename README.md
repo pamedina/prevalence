@@ -4,9 +4,8 @@
 
 #### Download and Compile: 
 
-    $ git clone XXX
-    $ cd microbe_scan/src/
-    $ make 
+    $ git clone https://github.com/pamedina/prevalence.git
+    $ cd microbe_scan/src
   
 #### Dependencies 
 
