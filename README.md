@@ -39,7 +39,7 @@ Ther version used to produce the results in Medina et al. (2019) is maintained a
     $ python3 ./read-rickettsiales-blast.new.py -b Rickettsiales_4blast.fasta-blastn-${SRS}.random.fasta.blast -f ${SRS}.random.fasta -e PAIRED > ${SRS}.Rickettsiales_4blast.stats 2>> ${SRS}.err  
 
 #### Output file format 
-The output file from `read-rickettsiales-blast.new.py` is tab delimited. Each sample will have a separate out file, taking the form of ${SRS}.Rickettsiales_4blast.stats, as outlined above. The columns of the file are described below:  
+The output file from `read-rickettsiales-blast.new.py` is tab delimited. Each sample will have a separate out file, taking the form of `${SRS}.Rickettsiales_4blast.stats`, as outlined above. The columns of the file are described below:  
 1.	Sample name.  
 2.	Human readable reference name.  
 3.	Reference name.  
