@@ -4,9 +4,9 @@
 
 #### Download and Compile: 
 
-        $ git clone XXX
-        $ cd microbe_scan/src/
-	$ make 
+    $ git clone XXX
+    $ cd microbe_scan/src/
+    $ make 
   
 #### Dependencies 
 
