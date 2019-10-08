@@ -41,18 +41,18 @@ Ther version used to produce the results in Medina et al. (2019) is maintained a
 
 #### Output file format 
 The output file from `read-rickettsiales-blast.new.py` is tab delimited. Each sample will have a separate out file, taking the form of ${SRS}.Rickettsiales_4blast.stats, as outlined above. The columns of the file are described below:  
-	1. Sample name.  
-	2. Human readable reference name.  
-	3. Reference name.  
-	4. End spots.  
-	5. Download number.  
-	6. Number of blast hits (bp).  
-	7. Length of reference (bp).  
-	8. Estimated coverage of sample.  
-	9. Variance coefficient of depth.  
-	10. Proportion of bins filled.  
-	11. Raw bin counts.  
-	12. Number of reads mapping to reference.  
+1.	Sample name.  
+2.	Human readable reference name.  
+3.	Reference name.  
+4.	End spots.  
+5.	Download number.  
+6.	Number of blast hits (bp).  
+7.	Length of reference (bp).  
+8.	Estimated coverage of sample.  
+9.	Variance coefficient of depth.  
+10.	Proportion of bins filled.  
+11.	Raw bin counts.  
+12.	Number of reads mapping to reference.  
 
 
 #### Original Article 
