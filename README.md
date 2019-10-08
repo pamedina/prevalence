@@ -39,19 +39,19 @@ Ther version used to produce the results in Medina et al. (2019) is maintained a
 
 
 #### Original Article 
-Medina, P., Russell, S.L. and Corbett-Detig, R., 2019. Deep data mining reveals variable abundance and distribution of microbial reproductive manipulators within and among diverse host species. bioRxiv, https://doi.org/10.1101/679837.
+Medina, P., Russell, S.L. and Corbett-Detig, R., 2019. Deep data mining reveals variable abundance and distribution of microbial reproductive manipulators within and among diverse host species. bioRxiv, https://doi.org/10.1101/679837.  
 
-@article {Medina679837,
-	author = {Medina, Paloma and Russell, Shelbi L and Corbett-Detig, Russell},
-	title = {Deep data mining reveals variable abundance and distribution of microbial reproductive manipulators within and among diverse host species},
-	elocation-id = {679837},
-	year = {2019},
-	doi = {10.1101/679837},
-	publisher = {Cold Spring Harbor Laboratory},
-	URL = {https://www.biorxiv.org/content/early/2019/06/23/679837},
-	eprint = {https://www.biorxiv.org/content/early/2019/06/23/679837.full.pdf},
-	journal = {bioRxiv}
-}
+@article {Medina679837,  
+	author = {Medina, Paloma and Russell, Shelbi L and Corbett-Detig, Russell},  
+	title = {Deep data mining reveals variable abundance and distribution of microbial reproductive manipulators within and among diverse host species},  
+	elocation-id = {679837},  
+	year = {2019},  
+	doi = {10.1101/679837},  
+	publisher = {Cold Spring Harbor Laboratory},  
+	URL = {https://www.biorxiv.org/content/early/2019/06/23/679837},  
+	eprint = {https://www.biorxiv.org/content/early/2019/06/23/679837.full.pdf},  
+	journal = {bioRxiv}  
+}  
 
 
 # prevalence
