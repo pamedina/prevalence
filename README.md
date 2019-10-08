@@ -11,8 +11,8 @@
 #### Dependencies 
 
 The software requires blastn and sra-toolkit.  
-More information and detailed instructions for blast can be found here https://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs&DOC_TYPE=Download  
-And information to download the SRA toolkit can be found here: https://www.ncbi.nlm.nih.gov/sra/docs/toolkitsoft/  
+More information and detailed instructions for blast can be found [here.](https://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs&DOC_TYPE=Download)
+And information to download the SRA toolkit can be found [here.](https://www.ncbi.nlm.nih.gov/sra/docs/toolkitsoft/)
 
     $ sudo apt-get install ncbi-blast+  
     $ sudo apt-get install sra-toolkit  
