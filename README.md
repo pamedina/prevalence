@@ -26,10 +26,10 @@ Information on our method's accuracy to identify divergent strains can be found 
 Ther version used to produce the results in Medina et al. (2019) is maintained as version_0.1/
 
 #### Basic Usage:
-  $ fastq-dump --fasta -I --split-files --stdout ${SRR} >> ${SRS}.fasta 2>> ${SRS}.err
-  $ python3 randomly_subsample.new.nopairs.py ${SRS}.fasta > ${SRS}.random.fasta 2>> ${SRS}.err
-  $ blastn -query ${SRS}.random.fasta -db Rickettsiales_4blast.fasta -outfmt 6 > Rickettsiales_4blast.fasta-blastn-${SRS}.random.fasta.blast 2>> ${SRS}.err
-  $ python3 ./read-rickettsiales-blast.new.py -b Rickettsiales_4blast.fasta-blastn-${SRS}.random.fasta.blast -f ${SRS}.random.fasta -e PAIRED > ${SRS}.Rickettsiales_4blast.stats 2>> ${SRS}.err
+  $ fastq-dump --fasta -I --split-files --stdout ${SRR} >> ${SRS}.fasta 2>> ${SRS}.err  
+  $ python3 randomly_subsample.new.nopairs.py ${SRS}.fasta > ${SRS}.random.fasta 2>> ${SRS}.err  
+  $ blastn -query ${SRS}.random.fasta -db Rickettsiales_4blast.fasta -outfmt 6 > Rickettsiales_4blast.fasta-blastn-${SRS}.random.fasta.blast 2>> ${SRS}.err  
+  $ python3 ./read-rickettsiales-blast.new.py -b Rickettsiales_4blast.fasta-blastn-${SRS}.random.fasta.blast -f ${SRS}.random.fasta -e PAIRED > ${SRS}.Rickettsiales_4blast.stats 2>> ${SRS}.err  
   
 #### Input file format 
 
