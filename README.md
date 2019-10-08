@@ -53,7 +53,3 @@ Medina, P., Russell, S.L. and Corbett-Detig, R., 2019. Deep data mining reveals 
 	journal = {bioRxiv}  
 }  
 
-
-# prevalence
-scripts associated with "Deep data mining reveals variable abundance and distribution of microbial reproductive manipulators within and among diverse host species"
-
